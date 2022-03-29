@@ -11,7 +11,7 @@ component design & web performance improvement 🇰🇷
 
 <br />
 
-**About me**
+### 1. About me
 
 - 💼 FrontEnd Engineer at [Seoul42](https://42seoul.kr/seoul42/main/view)
 
@@ -23,7 +23,7 @@ component design & web performance improvement 🇰🇷
 
 <br/>
 
-**Github Doing & Problem Solving**
+### 2. Github Doing & Problem Solving
 
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=keinn51&margin-w=15&row=2&column=4">
@@ -38,7 +38,7 @@ component design & web performance improvement 🇰🇷
 
 <br/>
 
-**Other Skills**
+### 3. Other Skills
 
 <p align=center>
   <img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white"/>
