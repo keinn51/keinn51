@@ -58,7 +58,6 @@ component design & web performance improvement 🇰🇷
   <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=WordPress&logoColor=white"/>
 </p>  
 <p align=center>
-  <a href="https://velog.io/@keinn51"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat&logo=Velog&logoColor=white"/>
   <a href="https://github.com/keinn51"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=Blogger&logoColor=white"/>
 </p>
