@@ -33,7 +33,8 @@ component design & web performance improvement 🇰🇷
 
 <div align='center'>
   <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinn51&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
-  <img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soogood97">
+  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mtx750001109mi9unopdbu/stats?cursusId=21&coalitionId=88" alt="kyungsle's 42 stats" /></a>
+  <!-- <img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soogood97"> --> 
 </div>
 
 <br/>
