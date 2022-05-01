@@ -23,7 +23,7 @@ component design & web performance improvement 🇰🇷
 
 <br/>
 
-### 2. Github Doing & Problem Solving
+### 2. Github Doing & 42 Level
 
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=keinn51&margin-w=15&row=2&column=4">
