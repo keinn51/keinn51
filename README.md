@@ -17,7 +17,7 @@ component design & web performance improvement 🇰🇷
 
 - 📈 Noting what I have studied down and sharing it ⬇️
 
-- 😎 Average of **350** visits, with writing **190** articles in my Blog [Velog](https://velog.io/@keinn51) [Tistory](https://basemenks.tistory.com)
+- 😎 Average of **350** visits, with writing **190** articles in my Blog [Tistory](https://basemenks.tistory.com)
 
 - ❤️ I like to build the web from start to finish step by step [MyProject](https://github.com/keinn51/Book_Helper)
 
