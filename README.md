@@ -19,7 +19,7 @@ component design & web performance improvement 🇰🇷
 
 - 😎 Average of **350** visits, with writing **190** articles in my Blog [Tistory](https://basemenks.tistory.com)
 
-- ❤️ I like to build the web from start to finish step by step [MyProject](https://github.com/keinn51/Book_Helper)
+- ❤️ I like to build the web from start to finish step by step [Book_Comment](https://github.com/keinn51/Book_Helper)[ / Together42](https://github.com/keinn51/Together42_web)
 
 <br/>
 
