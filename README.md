@@ -6,7 +6,7 @@
 I am a front-end developer interested in
 </div>
 <div align="center">
-component design & web performance improvement 🇰🇷
+[component design](https://github.com/keinn51/Book_Comment_Web/wiki/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%A0%9C-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B2%B0%EA%B3%BC) & [web performance improvement](https://github.com/keinn51/Book_Comment_Web/wiki/%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81%EC%9D%84-%ED%95%B4%EB%B3%B4%EC%9E%90) 🇰🇷
 </div>
 
 <br />
