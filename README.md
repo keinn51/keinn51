@@ -30,13 +30,17 @@ I am a front-end developer interested in
   <img src="https://github-profile-trophy.vercel.app/?username=keinn51&margin-w=15&row=2&column=4">
 </div>
 
+<!--
+
 <br/>
 
 <div align='center'>
   <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinn51&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
   <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mtx750001109mi9unopdbu/stats?cursusId=21&coalitionId=88" alt="kyungsle's 42 stats" /></a>
-  <!-- <img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soogood97"> --> 
+ <img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soogood97">
 </div>
+
+-->
 
 <br/>
 
@@ -45,19 +49,21 @@ I am a front-end developer interested in
 <p align=center>
   <img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WEBPACK-007396?style=flat&logo=Webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FIREBASE-F7DF1E?style=flat-square&logo=Firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-000000?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <p>
 <p align=center>
 
+  <img src="https://img.shields.io/badge/EmotionJS-5B0BB5?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SCSS-5B0BB5?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=Prettier&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=ESLint&logoColor=white"/>
 </p>
 <p align=center>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Pages-222222?style=flat&logo=GitHub Pages&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=WordPress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
 </p>  
 <p align=center>
   <a href="https://github.com/keinn51"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
