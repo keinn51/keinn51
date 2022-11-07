@@ -24,7 +24,7 @@ I am a front-end developer interested in
 
 <br/>
 
-### 2. Github Doing & 42 Level
+### 2. Github Doing
 
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=keinn51&margin-w=15&row=2&column=4">
@@ -36,8 +36,6 @@ I am a front-end developer interested in
 
 <div align='center'>
   <img style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keinn51&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" />
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl2mtx750001109mi9unopdbu/stats?cursusId=21&coalitionId=88" alt="kyungsle's 42 stats" /></a>
- <img style="height:180px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=soogood97">
 </div>
 
 -->
