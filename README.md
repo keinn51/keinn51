@@ -3,24 +3,21 @@
 <br />
 
 <div align="center">
-I am a front-end developer interested in
+  <a href="https://quv.kr">SQUARES</a> 라는 회사에서 웹빌더를 개발하는 
 </div>
 <div align="center">
-  <a href="https://github.com/keinn51/Book_Comment_Web/wiki/%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%A0%9C-%EB%B6%84%EC%84%9D-%EB%B0%8F-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B2%B0%EA%B3%BC">component design</a>
-  & <a href="https://github.com/keinn51/Book_Comment_Web/wiki/%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81%EC%9D%84-%ED%95%B4%EB%B3%B4%EC%9E%90">web performance improvement</a> 🇰🇷
+  Front-End 개발자 이경수입니다👋🏻
 </div>
 
 <br />
 
 ### 1. About me
 
-- 💼 FrontEnd Engineer at [Seoul42](https://42seoul.kr/seoul42/main/view)
+- 📈 경험과 연구가 묻어나오는 글을 쓰려고 노력하고 있습니다. ([Velog](https://velog.io/@keinn51) 놀러오세욥!)
 
-- 📈 Noting what I have studied down and sharing it ⬇️
-
-- 😎 Average of **350** & Total **38,959** visits, with writing **190** articles in my Blog [Tistory](https://basemenks.tistory.com)
-
-- ❤️ I like to build the web from start to finish step by step [Book_Comment](https://github.com/keinn51/Book_Helper)[ / Together42](https://github.com/keinn51/Together42_web)
+- 🕸 작년 9월부터 새로운 웹빌더를 처음부터 끝까지 개발 중입니다. (With JS, React, Next)
+  - Self 기획과 Self 디자인 할 일이 많아서, 유저 프렌들리한 띵킹에 관심이 많아졌습니다.
+- 💪🏻 올바른 성장 방법과 개발 문화, 협업에 좋은 코드에 대해서 공부하고 블로그에 남기려고 노력중입니다~!
 
 <br/>
 
