@@ -3,7 +3,7 @@
 <br />
 
 <div align="center">
-  <a href="https://quv.kr">SQUARES</a> 라는 회사에서 웹빌더를 개발하는 
+  <a href="https://qshop.ai">SQUARES</a> 라는 회사에서 웹빌더를 개발하는 
 </div>
 <div align="center">
   Front-End 개발자 이경수입니다👋🏻
@@ -15,8 +15,7 @@
 
 - 📈 경험과 연구가 묻어나오는 글을 쓰려고 노력하고 있습니다. ([Velog](https://velog.io/@keinn51) 놀러오세욥!)
 
-- 🕸 작년 9월부터 새로운 웹빌더를 처음부터 끝까지 개발 중입니다. (With JS, React, Next)
-  - Self 기획과 Self 디자인 할 일이 많아서, 유저 프렌들리한 띵킹에 관심이 많아졌습니다.
+- 🕸 2022년 9월부터 새로운 웹빌더 프로토타입부터 출시까지 개발 중입니다. (With JS, React, Next)
 - 💪🏻 올바른 성장 방법과 개발 문화, 협업에 좋은 코드에 대해서 공부하고 블로그에 남기려고 노력중입니다~!
 
 <br/>
