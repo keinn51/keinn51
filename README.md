@@ -27,28 +27,28 @@
 **프로젝트 전체 경력 : 1년 11개월 (겹치는 기간 제외 산정)**
 
 - [Qshop Web Builder](https://qshop.ai/)
-  - 실무, 2022.09 ~ now
+  - 실무, 2022.09 ~ now (기여도 80%)
   - Front-End Developer
   - drag & drop 만으로 웹사이트를 만들어주는 프로그램
 
 - [배달해 듀오](https://github.com/keinn51/bae-duo-server/tree/main)
   - 사용자 없음, 2023.01 ~ 2023.05 (5개월)
-  - Back-End Lead
+  - Back-End Lead (기여도 90%)
   - "스퀘어스"라는 회사에서 제작한 배달 펀딩 사이트 (먹고 싶은 사람들 모으기)
 
 - [Together 42](https://github.com/Together42/frontend)
   - 사용자 nn명, 2022.04 ~ 2022.09, 2023.02 ~ 2023.07 (1년 2개월)
-  - Front-End Solo & Lead
+  - Front-End Solo & Lead (기여도 100%)
   - 42명의 도서관 동아리원들을 위한 웹사이트
  
 - [집현전](https://github.com/jiphyeonjeon-42/frontend)
   - 사용자 1000명 이상, 2022.04 ~ 2022.09, (6개월)
-  - Front-End Lead
+  - Front-End Lead (기여도 40%)
   - Seoul42 공식 도서관 웹사이트
 
 - [책 후기 웹사이트](https://github.com/keinn51/Book_Comment_Web)
   - 사용자 없음, 2022.01 ~ 2022.04 (4개월)
-  - Front-End Solo
+  - Front-End Solo (기여도 100%)
 
 ### 3. Github Doing
 
