@@ -20,7 +20,37 @@
 
 <br/>
 
-### 2. Github Doing
+### 2. 진행한 모든 프로젝트
+
+**실무 경력 : 1년 3개월 (23.11.13 기준)**
+
+**프로젝트 전체 경력 : 3년 8개월**
+
+- [Qshop Web Builder](https://qshop.ai/)
+  - 실무, 2022.09 ~ now
+  - Front-End Developer
+  - drag & drop 만으로 웹사이트를 만들어주는 프로그램
+
+- [배달해 듀오](https://github.com/keinn51/bae-duo-server/tree/main)
+  - 사용자 없음, 2023.01 ~ 2023.05 (총 5개월)
+  - Back-End Lead
+  - "스퀘어스"라는 회사에서 제작한 배달 펀딩 사이트 (먹고 싶은 사람들 모으기)
+
+- [Together 42](https://github.com/Together42/frontend)
+  - 사용자 nn명, 2022.04 ~ 2022.09, 2023.02 ~ 2023.07 (총 1년 2개월)
+  - Front-End Solo & Lead
+  - 42명의 도서관 동아리원들을 위한 웹사이트
+ 
+- [집현전](https://github.com/jiphyeonjeon-42/frontend)
+  - 사용자 1000명 이상, 2022.04 ~ 2022.09, (총 6개월)
+  - Front-End Lead
+  - Seoul42 공식 도서관 웹사이트
+
+- [책 후기 웹사이트](https://github.com/keinn51/Book_Comment_Web)
+  - 사용자 없음, 2022.01 ~ 2022.04 (총 4개월)
+  - Front-End Solo
+
+### 3. Github Doing
 
 <div align='center'>
   <img src="https://github-profile-trophy.vercel.app/?username=keinn51&margin-w=15&row=2&column=4">
@@ -38,7 +68,7 @@
 
 <br/>
 
-### 3. Other Skills
+### 4. Other Skills
 
 <p align=center>
   <img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white"/>
