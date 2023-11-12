@@ -27,8 +27,8 @@
 **프로젝트 전체 경력 : 1년 11개월 (겹치는 기간 제외 산정)**
 
 - [Qshop Web Builder](https://qshop.ai/)
-  - 실무, 2022.09 ~ now (기여도 80%)
-  - Front-End Developer
+  - 실무, 2022.09 ~ now (1년 3개월)
+  - Front-End Developer (기여도 80%)
   - drag & drop 만으로 웹사이트를 만들어주는 프로그램
 
 - [배달해 듀오](https://github.com/keinn51/bae-duo-server/tree/main)
