@@ -3,9 +3,6 @@
 <br />
 
 <div align="center">
-  <a href="https://qshop.ai">SQUARES</a> 라는 회사에서 웹빌더를 개발하는 
-</div>
-<div align="center">
   Front-End 개발자 이경수입니다👋🏻
 </div>
 
@@ -15,35 +12,34 @@
 
 - 📈 경험과 연구가 묻어나오는 글을 쓰려고 노력하고 있습니다. ([Velog](https://velog.io/@keinn51) 놀러오세욥!)
 
-- 🕸 2022년 9월부터 새로운 웹빌더 프로토타입부터 출시까지 진행했습니다. (With JS, React, Next) ([Website](https://qshop.ai/))
+- 🕸  drag & drop 만으로 웹사이트 제작이 가능한 노코드 에디터를 제작한 경험이 있습니다. (With JS, React, Next) ([Website](https://qshop.ai/))
+  
 - 💪🏻 올바른 성장 방법과 개발 문화, 협업에 좋은 코드에 대해서 공부하고 블로그에 남기려고 노력중입니다~!
 
 <br/>
 
-### 2. 진행한 모든 프로젝트 (23.11.13 기준)
+### 2. 진행한 모든 프로젝트
 
-**실무 경력 : 1년 3개월**
-
-**프로젝트 전체 경력 : 1년 11개월 (겹치는 기간 제외 산정)**
+**실무 경력 : 1년 5개월**
 
 - [Qshop Web Builder](https://qshop.ai/)
-  - 실무, 2022.09 ~ now (1년 3개월)
-  - Front-End Developer (기여도 80%)
+  - 실무, 2022.09 ~ 2024.02 (1년 5개월)
+  - Front-End Developer (기여도 40%)
   - drag & drop 만으로 웹사이트를 만들어주는 프로그램
 
 - [배달해 듀오](https://github.com/keinn51/bae-duo-server/tree/main)
   - 사용자 없음, 2023.01 ~ 2023.05 (5개월)
-  - Back-End Lead (기여도 90%)
+  - Back-End Lead (기여도 30%)
   - "스퀘어스"라는 회사에서 제작한 배달 펀딩 사이트 (먹고 싶은 사람들 모으기)
 
 - [Together 42](https://github.com/Together42/frontend)
   - 사용자 nn명, 2022.04 ~ 2022.09, 2023.02 ~ 2023.07 (1년 2개월)
-  - Front-End Solo & Lead (기여도 100%)
+  - Front-End Solo & Lead (기여도 50%)
   - 42명의 도서관 동아리원들을 위한 웹사이트
  
 - [집현전](https://github.com/jiphyeonjeon-42/frontend)
-  - 사용자 1000명 이상, 2022.04 ~ 2022.09, (6개월)
-  - Front-End Lead (기여도 40%)
+  - 잠재 사용자 1000명, 2022.04 ~ 2022.09, (6개월)
+  - Front-End Lead (기여도 20%)
   - Seoul42 공식 도서관 웹사이트
 
 - [책 후기 웹사이트](https://github.com/keinn51/Book_Comment_Web)
