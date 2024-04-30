@@ -76,9 +76,5 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=Jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=white"/>
 </p>  
-<p align=center>
-  <a href="https://github.com/keinn51"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=Blogger&logoColor=white"/>
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
