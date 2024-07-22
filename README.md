@@ -40,7 +40,7 @@
 
 ### 3. 나를 더 알 수 있는 곳
 
-- Velog : https://velog.io/@keinn51
+- Blog : https://keinn51.tistory.com/
 
 - Youtube : https://www.youtube.com/@user-ul4fw2gb9h
 
