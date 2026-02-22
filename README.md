@@ -16,7 +16,7 @@
 
 
 - 2024.07 ~ 현재
-- Front-End Developer
+- Front-End Developer (React-Native)
 - 35-50 남성을 위한 패션 커머스 플랫폼
 
 ### 1-2. [Qshop](https://qshop.ai/)
@@ -25,7 +25,7 @@
 
 
 - 2022.09 ~ 2024.02 (1년 5개월)
-- Front-End Developer
+- Front-End Developer (React)
 - drag & drop 만으로 웹사이트를 만들어주는 프로그램 제작
 
 
