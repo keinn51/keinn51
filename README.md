@@ -28,8 +28,13 @@
 - Front-End Developer (React)
 - drag & drop 만으로 웹사이트를 만들어주는 프로그램 제작
 
+## 2. 공부 레포지토리
 
-## 2. 나를 더 알 수 있는 곳
+- [토이 프로젝트 : 기술 습득 및 실력 향상을 위해 🔥](https://github.com/toy-project-kyungsle)
+- [개인적으로 공부하고 연구하는 공간 🤔](https://github.com/practice-skill-kyungsle)
+
+
+## 3. 나를 더 알 수 있는 곳
 
 - Blog : https://keinn51.tistory.com/category/Develop
 
